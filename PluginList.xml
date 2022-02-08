@@ -11,10 +11,16 @@
 		CMiLib
 		TAB
 		SkinRestorer
+		LoginSecurity
+		DeluxeChatHex
+		Citizens
+		CitizensCMD
+		
 		<Staff-Plugins>
 			SuperVanish
 			StaffChat
-			PluginManager
+			PluginManager (nevím jaký ještě)
+			
 		</Staff-Plugins>
 		<Builder-Plugins>
 			FastAsyncWorldEdit
