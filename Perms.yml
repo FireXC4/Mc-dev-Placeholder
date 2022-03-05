@@ -1,0 +1,69 @@
+Owner
+SR.Admin
+Admin
+Developer
+HeadBuilder
+HeadHelper
+Builder
+Helper
+Mod
+TraineBuilder
+TraineHelper
+TraineMod
+
+
+Under groups
+    EssentialsAdmins:
+        - essentials.fly
+        - essentials.gamemode
+        - essentials.gamemode.all
+        - essentials.god
+        - essentials.god.pvp
+        - essentials.helpop.receive
+        - essentials.invsee
+        - essentials.invsee.modify
+        - essentials.invsee.preventmodify
+        - essentials.item
+        - essentials.speed
+        - essentials.time
+        - essentials.time.set
+        - essentials.time.world.all
+        - essentials.tp
+        - essentials.tp.position
+        - essentials.tpoffline
+        - essentials.tphere
+        - essentials.tptoggle
+        - essentials.weather
+        - essentials.enchant
+        - essentials.depth
+        - essentials.enderchest.modify
+        - essentials.enderchest.others
+        - essentials.keepxp
+        - essentials.joinfullserver
+        - essentials.kickall.exempt
+        - essentials.kill.exempt
+        - essentials.list
+        - essentials.list.hidden
+        - essentials.skull
+        - essentials.skull.others
+        - essentials.skull.spawn
+        - essentials.spawner
+        - essentials.spawner.*
+    StaffPerms:
+        - dxl.fullplayer
+        - chatformat.staff
+        - multiverse.core.info
+        - multiverse.core.list.worlds
+        - multiverse.core.spawn.self
+        - multiverse.access.*
+        - staff.chat
+        - astools.use
+    WorldEdit:
+        - worldedit.*
+        - fawe.bypass
+        - fawe.permpack.basic
+        - fawe.voxelbrush
+        - fawe.worldguard
+        - fawe.admin
+        - fawe.astools.bypass-wg-flag
+        - decoheads.*
