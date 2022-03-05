@@ -58,6 +58,7 @@ Under groups
         - multiverse.access.*
         - staff.chat
         - astools.use
+        - tab.staff
     WorldEdit:
         - worldedit.*
         - fawe.bypass
